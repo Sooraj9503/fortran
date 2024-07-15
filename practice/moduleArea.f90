@@ -1,0 +1,2 @@
+module area
+    implicit none
